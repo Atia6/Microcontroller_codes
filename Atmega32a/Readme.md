@@ -8,4 +8,4 @@
 <br>Year: 2022
 <br>Grade Recieved: A+
 <br>
-<br>The code was developed and debugged on AtmelStudio version 6.1. The relevent circuit has been developed and the code performance have been reviwed on Proteus version 8. 
+<br>The code was developed and debugged on AtmelStudio version 6.1. The relevent circuit has been developed and the code performance have been reviwed on Proteus version 8. I have added lab reports with circuit diagram and codes for the code I am unable to find. 
